@@ -1,0 +1,25 @@
+
+.custom-increase-button {
+    /* Your custom styling for increase button */
+    background-color: green;
+    color: white;
+    border-radius: 50%;
+    height: 40px;
+    width: 45px;
+    font-size: 30px; 
+    line-height: 20px; 
+    text-align: center; 
+}
+
+
+.custom-decrease-button {
+    /* Your custom styling for decrease button */
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    height: 40px;
+    width: 45px;
+    font-size: 40px; 
+    line-height: 20px; 
+    text-align: center;
+}
